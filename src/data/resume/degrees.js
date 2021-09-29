@@ -1,16 +1,19 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Nanyang Technological University',
+    degree: 'Ph.D. Physics',
+    link: 'https://ntu.edu.sg',
+    year: 2019,
+    info: 'Nanyang Research Scholarship',
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Nanyang Technological University',
+    degree: 'B.S. Physics and Applied Physics',
+    link: 'https://ntu.edu.sg',
+    year: 2015,
+    info: 'ASEAN Scholarship, First Class Honor',
   },
+
 ];
 
 export default degrees;
