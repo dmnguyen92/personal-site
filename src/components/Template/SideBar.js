@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Dang Minh. I am a Machine Learning Engineer
+      <p>Hi, I&apos;m Dang Minh, a Machine Learning Engineer at <a href="https://shopee.sg/">Shopee</a>,
         who likes to learn and create
         new things. I got my Bachelor and PhD degree from
         <a href="https://ntu.edu.sg/">Nanyang Technological University</a>.
