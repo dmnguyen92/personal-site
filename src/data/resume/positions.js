@@ -18,7 +18,7 @@ const positions = [
     points: [
       'Initiated and led a serie of NLP-related projects that enabled a new business feature: automated product bundles. This includes: forming bundles using knowledge graph and text clustering, naming bundles with text summarization, automating bundle update, etc. The automated bundles bring 100% CTR improvement as compared to handcrafted bundle.',
       'Designed and constructed knowledge graph of users and products profiles by utilizing name-entity-recognition and text-classification. They served as core features for downstream recommendation models, boosting its CTR by 5%.',
-      'Developed a highly-flexible, domain-adapted text-processing library in golang that handles stemming, tokenization, etc. for multiple languages across all Shopee’s markets, which became the back-bone of all NLP-related functions in Shopee Recommendation system.'
+      'Developed a highly-flexible, domain-adapted text-processing library in golang that handles stemming, tokenization, etc. for multiple languages across all Shopee’s markets, which became the back-bone of all NLP-related functions in Shopee Recommendation system.',
     ],
   },
   {
