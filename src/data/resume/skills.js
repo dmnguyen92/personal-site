@@ -135,7 +135,7 @@ const skills = [
   {
     title: 'Leadership',
     competency: 5,
-    category: ["General"],
+    category: ['General'],
   },
   {
     title: 'Project Management',

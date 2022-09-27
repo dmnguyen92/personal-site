@@ -12,9 +12,9 @@ Building your own personal website from this project can take as little as 30 mi
 
 Contributions are actively encouraged. Please review the [design goals](./docs/design-goals.md), [roadmap](./docs/roadmap.md), and [contributing guidelines](./docs/contributing.md). If you find a bug, please email me, submit a pull request (I'll buy you a coffee as a thank you), or submit an issue.
 
-## Dependencies
+## Dependencies (Important)
 
-Tested with: [node](https://nodejs.org/) >= v12 and optional [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for managing node versions.
+Need: [node](https://nodejs.org/) == v12 and [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for managing node versions.
 
 ## Set up
 
