@@ -8,24 +8,24 @@ const skills = [
     category: ['Languages'],
   },
   {
-    title: 'Go',
+    title: 'Scala',
     competency: 5,
     category: ['Languages'],
   },
   {
+    title: 'Go',
+    competency: 4,
+    category: ['Languages'],
+  },
+  {
     title: 'C++',
-    competency: 3,
+    competency: 2,
     category: ['Languages'],
   },
   {
     title: 'Bash',
     competency: 2,
     category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
   },
   {
     title: 'Git',
@@ -38,7 +38,27 @@ const skills = [
     category: ['Data Engineering', 'Tools'],
   },
   {
+    title: 'Hadoop',
+    competency: 5,
+    category: ['Data Engineering', 'Tools'],
+  },
+  {
+    title: 'Spark',
+    competency: 5,
+    category: ['Data Engineering', 'Tools'],
+  },
+  {
     title: 'Amazone Web Services',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
+    title: 'Docker',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
+    title: 'Airflow',
     competency: 3,
     category: ['Tools'],
   },
@@ -46,11 +66,6 @@ const skills = [
     title: 'SQL',
     competency: 3,
     category: ['Data Engineering', 'Languages'],
-  },
-  {
-    title: 'Pyspark',
-    competency: 3,
-    category: ['Data Engineering', 'Tools'],
   },
   {
     title: 'Numpy',
@@ -63,11 +78,6 @@ const skills = [
     category: ['Data Science'],
   },
   {
-    title: 'Docker',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
     title: 'Scikit-Learn',
     competency: 4,
     category: ['Data Science'],
@@ -76,11 +86,6 @@ const skills = [
     title: 'Pandas',
     competency: 4,
     category: ['Data Engineering', 'Data Science'],
-  },
-  {
-    title: 'Airflow',
-    competency: 3,
-    category: ['Tools'],
   },
   {
     title: 'Matplotlib + Seaborn',
@@ -94,7 +99,7 @@ const skills = [
   },
   {
     title: 'Tensorflow + Keras',
-    competency: 2,
+    competency: 4,
     category: ['Data Science'],
   },
   {
@@ -104,6 +109,16 @@ const skills = [
   },
   {
     title: 'Recommendation System',
+    competency: 4,
+    category: ['Data Science'],
+  },
+  {
+    title: 'Information Retrieval',
+    competency: 4,
+    category: ['Data Science'],
+  },
+  {
+    title: 'Data Visualization',
     competency: 4,
     category: ['Data Science'],
   },
@@ -118,24 +133,19 @@ const skills = [
     category: ['General'],
   },
   {
-    title: 'Mathematical Modelling',
+    title: 'Leadership',
     competency: 5,
-    category: ['General', 'Data Science'],
+    category: ["General"],
   },
   {
-    title: 'Project Ownership',
+    title: 'Project Management',
     competency: 4,
     category: ['General'],
   },
   {
-    title: 'Data Visualization',
+    title: 'Technical Design',
     competency: 4,
-    category: ['Data Science'],
-  },
-  {
-    title: 'Hadoop',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
+    category: ['General'],
   },
   {
     title: 'Statistical Analysis',
