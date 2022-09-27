@@ -1,4 +1,5 @@
-# prefer npm over yarn 
+!*
+# prefer npm over yarn
 yarn.lock
 
 # eslint
